@@ -1,12 +1,12 @@
 import React from 'react'
-import landing from './pages/Landing'
+import Landing from './pages/Landing'
 
 function App() {
  
 
   return (
     <>
-    
+     <Landing/>
     </>
   )
 }
