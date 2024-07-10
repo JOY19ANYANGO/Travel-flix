@@ -1,16 +1,11 @@
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
 
 function NavBar() {
-  
-
- 
-
 
   return (
-    <header className="Navbar">
-      <img src={logo} className="image" alt="logo" />
-      <div className="List">
-        <ul className="list">
+      <div >
+        <ul >
           <li>
             <Link to="/">Home</Link>
           </li>
@@ -27,7 +22,7 @@ function NavBar() {
         </ul>
       </div>
       
-    </header>
+   
   );
 }
 
