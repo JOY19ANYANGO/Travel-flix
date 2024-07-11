@@ -5,7 +5,23 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        georgia: ['Georgia', 'serif'],
+      },
+    },
   },
   plugins: [],
 }
+// module.exports = {
+//   theme: {
+//     extend: {
+//       fontFamily: {
+//         georgia: ['Georgia', 'serif'],
+//       },
+//     },
+//   },
+//   variants: {},
+//   plugins: [],
+// };
+
