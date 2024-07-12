@@ -4,6 +4,7 @@ import Phrase from '../components/Phrase';
 import SearchBar from '../components/Searchbar';
 import Header from '../components/Header';
 import AddListings from '../components/AddListings';
+import CategoryIcons from '../components/Categories';
 const LandingPage = () => {
   return (
     <div className="font-georgia text-white">
@@ -14,8 +15,8 @@ const LandingPage = () => {
         <Phrase />
         <SearchBar />
       </div>
-      <div className="p-8">
-        {/* Your additional content goes here */}
+      <div className=" bg-slate-200">
+        <CategoryIcons/>
       </div>
     </div>
   );
