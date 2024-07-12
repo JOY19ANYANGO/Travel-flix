@@ -8,6 +8,7 @@ export default {
     extend: {
       fontFamily: {
         georgia: ['Georgia', 'serif'],
+        'dancing-script': ['Dancing Script', 'cursive'],
       },
     },
   },
