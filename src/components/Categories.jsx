@@ -27,10 +27,10 @@ import {
 
 const CategoryIcons = () => {
   return (
-    <div className="container mx-auto px-8 py-8">
+    <div className="absolute bottom-0 w-full flex justify-center mb-8">
       <div className="grid grid-cols-6 gap-2">
         {categories.map((category, index) => (
-          <div key={index} className="bg-white text-red-500 p-4 rounded-lg shadow-md h-40 w-40 flex flex-col justify-center items-center">
+          <div key={index} className="bg-white text-red-500 p-4 shadow-md h-40 w-40 flex flex-col justify-center items-center">
             <div className="mb-4">
               <FontAwesomeIcon icon={category.icon1} className="text-5xl" />
               <FontAwesomeIcon icon={category.icon2} className="text-5xl ml-4" />
@@ -60,5 +60,6 @@ const categories = [
 ];
 
 export default CategoryIcons;
+
 
 
