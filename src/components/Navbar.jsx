@@ -9,13 +9,13 @@ function NavBar() {
           <Link to="/" className="hover:underline">HOME</Link>
         </li>
         <li>
-          <Link to="/AboutUs" className="hover:underline">LISTINGS</Link>
+          <Link to="/Places" className="hover:underline">LISTINGS</Link>
         </li>
         <li>
           <Link to="/Services" className="hover:underline">CONTACT</Link>
         </li>
         <li>
-          <Link to="/Places" className="hover:underline">ABOUT</Link>
+          <Link to="/AboutUs" className="hover:underline">ABOUT</Link>
         </li>
       </ul>
     </nav>

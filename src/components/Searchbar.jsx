@@ -5,10 +5,10 @@ import { faSearch } from '@fortawesome/free-solid-svg-icons';
 const SearchBar = () => {
   return (
     <div className="absolute top-42 left-0 right-0 mt-12 flex flex-col items-center">
-      <div className="flex flex-col items-center justify-center h-80 text-center font-georgia">
-        <h1 className="text-6xl font-bold">Let's Explore</h1>
-        <h1 className="text-6xl font-bold">Your Beautiful City</h1>
-        <p className="text-2xl">Find a great place to stay, eat, shop from local experts</p>
+      <div className="flex flex-col items-center justify-center h-80 text-center font-dancing-script">
+        <h1 className="text-8xl font-bold">Let's Explore</h1>
+        <h1 className="text-8xl font-bold">Your Beautiful City</h1>
+        <p className="text-3xl">Find a great place to stay, eat, shop from local experts</p>
       </div>
       <div className="flex w-full justify-center">
         <div className="flex w-5/12">

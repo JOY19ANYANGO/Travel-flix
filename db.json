@@ -1,0 +1,53 @@
+{
+    "areas": [
+      {
+        "id": 1,
+        "name": "CJ's",
+        "category": "Food & Drinks",
+        "description": "commited to great food, great coffee, great service, an experience that will make your time with us fabulous. All visuals are serving suggestions only.",
+        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/30/f6/37/welcome-to-cj-s-a-fully.jpg?w=1100&h=-1&s=1",
+        "website":"https://cjs.co.ke/user/home"
+      },
+      {
+        "id": 2,
+        "name": "Jiko Restaurant",
+        "category": "Food & Drinks",
+        "description": "Inspired by the open flame grill, the seasonal menu is a tribute to local farmers; paying homage to crisp flavors and fresh, organic ingredients. Jiko authentically uplifts its inspirations while offering guests the delights of whimsy and fantasy through a playful approach to presentation.",
+        "image":"https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/630/354/75/dam/wdpro-assets/gallery/dining/resort-dining/animal-kingdom-lodge/jiko-the-cooking-place/jiko-the-cooking-place-gallery05.jpg?1705008096958",
+        "website":"https://www.tribe-hotel.com/nairobi/jiko-restaurant-nairobi/"
+      },
+      {
+        "id": 3,
+        "name": " Slate - Kitchen & Bar",
+        "category": "Food & Drinks",
+        "description": "Nestled in the vibrant heart of Nairobi's Westlands, our bar stands as the pulsating core of our culinary journey, where the eclectic beats of French-Afro-Asian",
+        "website":"https://www.thefoodlibrary.co.ke/slate/",
+        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/99/4f/74/savor-the-flavors-of.jpg?w=1200&h=-1&s=1"
+
+      },
+      {
+        "id": 4,
+        "name": "hero restaurant",
+        "category": "Food & Drinks",
+        "description": "Hero is a new kind of eatery; at the intersection of design, fantasy, indulgence and individuality. Built as a speakeasy with a discrete entrance and prohibition-style bar; the concept invites the guests to be members of a secret space.",
+        "image":"https://images.squarespace-cdn.com/content/v1/5d5d24dcf6e1930001a125c3/1571903158829-3FU3PWQMXZ1IBNAVJO6L/HERO+Web-66.jpg",
+        "website":"https://www.hero-kenya.com/"
+      },
+      {
+        "id": 5,
+        "name": " Harvest Restaurant",
+        "category": "Food & Drinks",
+        "description": "Harvest is a tribute to local farmers, crisp flavours and fresh organic ingredients. Creations by Executive Chef Luca Pintus and his team.",
+        "image":"https://media-cdn.tripadvisor.com/media/photo-s/22/17/05/8c/mama-harvest-welcomes.jpg",
+        "website":"https://www.trademark-hotel.com/nairobi/restaurant-nairobi/"
+      },
+      {
+        "id": 6,
+        "name": "Inca Restaurant",
+        "category": "Food & Drinks",
+        "description": "Perched in the vibrant heart of Nairobi's Hurlingham area, Inca Restaurant beckons with its irresistible blend of Peruvian cuisine and contemporary flair.",
+        "image":"https://eatout.co.ke/storage/2021/03/4.jpg",
+        "website":"https://www.nairobirestaurants.co.ke/restaurant/inca-restaurant/profile"
+      }
+    ]
+  }

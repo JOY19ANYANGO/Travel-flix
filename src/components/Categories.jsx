@@ -45,7 +45,7 @@ const CategoryIcons = () => {
 };
 
 const categories = [
-  { icon1: faHamburger, icon2: faCoffee, label: 'Food & Drinks' },
+  { icon1: faHamburger, icon2: faCoffee, label: '' },
   { icon1: faShoppingBag, icon2: faShoppingBasket, label: 'Malls' },
   { icon1: faPalette, icon2: faEye, label: 'Beauty' },
   { icon1: faBed, icon2: faCocktail, label: 'Hotels' },
