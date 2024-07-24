@@ -61,29 +61,31 @@ function Restaurants() {
       </div>
       {selectedRestaurant && (
         <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-70">
-          <div className="bg-black rounded-lg overflow-hidden shadow-lg p-6 relative max-w-lg w-full">
+          <div className="bg-black rounded-lg overflow-hidden shadow-lg p-6 relative w-3/4 max-w-4xl h-1/2">
             <button
               className="absolute top-2 right-2 text-white text-xl"
               onClick={closeModal}
             >
               &times;
             </button>
-            <img
-              src={selectedRestaurant.image}
-              alt={selectedRestaurant.name}
-              className="h-48 w-full object-cover mb-4 rounded-lg"
-            />
-            <div className="text-center">
-              <h2 className="text-2xl font-bold">{selectedRestaurant.name}</h2>
-              <p className="mt-2">{selectedRestaurant.description}</p>
-              <a
-                href={selectedRestaurant.website}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="mt-2 text-blue-400 underline block"
-              >
-                Visit Website
-              </a>
+            <div className="flex h-full">
+              <img
+                src={selectedRestaurant.image}
+                alt={selectedRestaurant.name}
+                className="w-1/2 object-cover rounded-none"
+              />
+              <div className="w-1/2 p-6 text-white flex flex-col justify-center">
+                <h2 className="text-4xl font-bold font-dancing-script">{selectedRestaurant.name}</h2>
+                <p className="mt-4">{selectedRestaurant.description}</p>
+                <a
+                  href={selectedRestaurant.website}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-4 text-blue-400 underline"
+                >
+                  Visit Website
+                </a>
+              </div>
             </div>
           </div>
         </div>
