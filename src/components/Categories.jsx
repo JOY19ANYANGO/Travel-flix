@@ -7,7 +7,7 @@ const CategoryIcons = () => {
       <h1 className='text-white text-center text-2xl mb-6'>VIEW CATEGORIES</h1>
       <div className="w-full flex justify-center">
         <div className="grid grid-cols-3 md:grid-cols-5 gap-4">
-          {categories.map((category, index) => (
+         {categories.map((category, index) => (
             <Link 
               key={index} 
               to={category.path} 
@@ -22,7 +22,7 @@ const CategoryIcons = () => {
                 <div className="text-center text-white">{category.label}</div>
               </div>
             </Link>
-          ))}
+          ))} 
         </div>
       </div>
     </div>
