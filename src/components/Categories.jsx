@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const CategoryIcons = () => {
+  
   return (
     <div style={{ marginTop: '100vh' }}>
       <h1 className='text-white text-center text-2xl mb-6'>VIEW CATEGORIES</h1>

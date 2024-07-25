@@ -43,7 +43,7 @@ function Restaurants() {
             {restaurants.map((restaurant, index) => (
               <div
                 key={index}
-                className="relative bg-white text-white shadow-md h-60 w-60 flex flex-col justify-center items-center cursor-pointer"
+                className="relative bg-white text-white shadow-md h-60 w-60 flex flex-col justify-center items-center cursor-pointer transform transition duration-300 hover:scale-105"
                 onClick={() => handleCardClick(restaurant)}
                 style={{
                   backgroundImage: `url(${restaurant.image})`,
@@ -61,7 +61,7 @@ function Restaurants() {
       </div>
       {selectedRestaurant && (
         <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-70">
-          <div className="bg-black rounded-lg overflow-hidden shadow-lg p-6 relative w-3/4 max-w-4xl h-1/2">
+          <div className="bg-black rounded-lg overflow-hidden shadow-lg p-6 relative w-3/4 max-w-4xl h-1/2 transform transition duration-300 scale-100 animate-modalShow">
             <button
               className="absolute top-2 right-2 text-white text-xl"
               onClick={closeModal}
