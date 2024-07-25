@@ -3,7 +3,7 @@
       {
         "id": 1,
         "name": "CJ's",
-        "category": "Food & Drinks",
+        "category": "restaurants",
         "description": "commited to great food, great coffee, great service, an experience that will make your time with us fabulous. All visuals are serving suggestions only.",
         "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/30/f6/37/welcome-to-cj-s-a-fully.jpg?w=1100&h=-1&s=1",
         "website":"https://cjs.co.ke/user/home"
@@ -11,7 +11,7 @@
       {
         "id": 2,
         "name": "Jiko Restaurant",
-        "category": "Food & Drinks",
+        "category": "restaurants",
         "description": "Inspired by the open flame grill, the seasonal menu is a tribute to local farmers; paying homage to crisp flavors and fresh, organic ingredients. Jiko authentically uplifts its inspirations while offering guests the delights of whimsy and fantasy through a playful approach to presentation.",
         "image":"https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/630/354/75/dam/wdpro-assets/gallery/dining/resort-dining/animal-kingdom-lodge/jiko-the-cooking-place/jiko-the-cooking-place-gallery05.jpg?1705008096958",
         "website":"https://www.tribe-hotel.com/nairobi/jiko-restaurant-nairobi/"
@@ -19,7 +19,7 @@
       {
         "id": 3,
         "name": " Slate - Kitchen & Bar",
-        "category": "Food & Drinks",
+        "category": "restaurants",
         "description": "Nestled in the vibrant heart of Nairobi's Westlands, our bar stands as the pulsating core of our culinary journey, where the eclectic beats of French-Afro-Asian",
         "website":"https://www.thefoodlibrary.co.ke/slate/",
         "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/99/4f/74/savor-the-flavors-of.jpg?w=1200&h=-1&s=1"
@@ -28,7 +28,7 @@
       {
         "id": 4,
         "name": "hero restaurant",
-        "category": "Food & Drinks",
+        "category": "restaurants",
         "description": "Hero is a new kind of eatery; at the intersection of design, fantasy, indulgence and individuality. Built as a speakeasy with a discrete entrance and prohibition-style bar; the concept invites the guests to be members of a secret space.",
         "image":"https://images.squarespace-cdn.com/content/v1/5d5d24dcf6e1930001a125c3/1571903158829-3FU3PWQMXZ1IBNAVJO6L/HERO+Web-66.jpg",
         "website":"https://www.hero-kenya.com/"
@@ -36,7 +36,7 @@
       {
         "id": 5,
         "name": " Harvest Restaurant",
-        "category": "Food & Drinks",
+        "category": "restaurants",
         "description": "Harvest is a tribute to local farmers, crisp flavours and fresh organic ingredients. Creations by Executive Chef Luca Pintus and his team.",
         "image":"https://media-cdn.tripadvisor.com/media/photo-s/22/17/05/8c/mama-harvest-welcomes.jpg",
         "website":"https://www.trademark-hotel.com/nairobi/restaurant-nairobi/"
@@ -44,7 +44,7 @@
       {
         "id": 6,
         "name": "Inca Restaurant",
-        "category": "Food & Drinks",
+        "category": "restaurants",
         "description": "Perched in the vibrant heart of Nairobi's Hurlingham area, Inca Restaurant beckons with its irresistible blend of Peruvian cuisine and contemporary flair.",
         "image":"https://eatout.co.ke/storage/2021/03/4.jpg",
         "website":"https://www.nairobirestaurants.co.ke/restaurant/inca-restaurant/profile"
@@ -52,7 +52,7 @@
       {
         "id": 7,
         "name": "Seven Seafood & Grill",
-        "category": "Food & Drinks",
+        "category": "restaurants",
         "description": "Redefining the flavors of local produce with every dish… Experience the magic at Seven Seafood & Grill – Kenya’s Premier Steakhouse & Seafood Restaurant.",
         "image":"https://lh3.googleusercontent.com/p/AF1QipMT9ZO54J1YmtTqh7pl7xqm9XJfEp79gZSAVMdN=s680-w680-h510",
         "website":"https://www.experienceseven.com/"
@@ -60,7 +60,7 @@
       {
         "id": 8,
         "name": "The carnivore restaurant",
-        "category": "Food & Drinks",
+        "category": "restaurants",
         "description": "Carnivore is an open-air restaurant in the Langata suburb of Nairobi, Kenya. Carnivore's specialty is meat, and features an all-you-can-eat meat buffet. They serve a wide variety of meat and were famous for their game meat until Kenya",
         "image":"https://lh3.googleusercontent.com/p/AF1QipOGIF9D5iivRp5Sb-8IzYJeZSd0ejCSltMe-_bE=s680-w680-h510",
         "website":"https://tamarind.co.ke/carnivore/"
@@ -68,7 +68,7 @@
       {
         "id": 9,
         "name": "Urban Eatery",
-        "category": "Food & Drinks",
+        "category": "restaurants",
         "description": "Offering an energized atmosphere in the heart of Nairobi, Urban Eatery consists of four different kitchens and our signature bar, with menus spanning from tasty early morning bites to more substantial evening feasts. ",
         "image":"https://lh3.googleusercontent.com/p/AF1QipMRHPhQpLMRE4D_LhT4oNEQ0WeLrrVhvg6IGL__=s680-w680-h510",
         "website":"https://www.urbaneatery.co.ke/"
@@ -76,7 +76,7 @@
       {
         "id": 10,
         "name": "Five Senses Restaurant",
-        "category": "Food & Drinks",
+        "category": "restaurants",
         "description": "Five Senses Restaurant is a family-run casual fine dining restaurant situated on 2nd Floor Galana Plaza along Galana Road in Kilimani Area, Nairobi.",
         "image":"https://lh3.googleusercontent.com/p/AF1QipMDeDBHQ1Ro9_Mvx_ABkONZ4PE6hT3FbW5BDt9e=s680-w680-h510",
         "website":"https://5senses.co.ke/"
@@ -84,43 +84,132 @@
       {
         "id": 11,
         "name": "Mawimbi Seafood Restaurant",
-        "category": "Food & Drinks",
+        "category": "restaurants",
         "description": ". By joining us at Mawimbi, you’ll savor the world’s finest seafood in a breathtaking setting, Create life-changing connections and make unforgettable memories at the world’s finest luxury Seafood Restaurant",
         "image":"https://lh3.googleusercontent.com/p/AF1QipON61rkfxiAO34ZILUGG7E7L2nc6rAVLCLMnhtH=s680-w680-h510",
         "website":"https://www.mawimbirestaurant.com/"
       },
       {
         "id": 12,
-        "name": "Inca Restaurant",
-        "category": "Food & Drinks",
-        "description": "Perched in the vibrant heart of Nairobi's Hurlingham area, Inca Restaurant beckons with its irresistible blend of Peruvian cuisine and contemporary flair.",
-        "image":"https://eatout.co.ke/storage/2021/03/4.jpg",
-        "website":"https://www.nairobirestaurants.co.ke/restaurant/inca-restaurant/profile"
+        "name": "Talisman Restaurant",
+        "category": "restaurants",
+        "description": "Featuring carved wooden pillars from Pakistan, elegant Afghan rugs, charming fireplaces, sprawling terraces and idyllic gardens, The Talisman blends fine dining with unbridled eclecticism. We have made every effort to create the ideal ambience for those seeking a candle-lit romantic dinner, a casual evening drink with friends, an outdoor lunch with family and everything in between.",
+        "image":"http://www.thetalismanrestaurant.com/wp-content/uploads/2019/02/front-about2.jpg",
+        "website":"http://www.thetalismanrestaurant.com/"
       },
       {
         "id": 13,
-        "name": "Inca Restaurant",
-        "category": "Food & Drinks",
-        "description": "Perched in the vibrant heart of Nairobi's Hurlingham area, Inca Restaurant beckons with its irresistible blend of Peruvian cuisine and contemporary flair.",
-        "image":"https://eatout.co.ke/storage/2021/03/4.jpg",
-        "website":"https://www.nairobirestaurants.co.ke/restaurant/inca-restaurant/profile"
+        "name": "Mama Oliech Restaurant",
+        "category": "restaurants",
+        "description": "MAMA OLIECH RESTAURANT is located in Murcus Garvey Road in chaka yaya centre.our RESTAURANT is specialised in African dishes mainly Fish from lake Victoria",
+        "image":"https://lh3.googleusercontent.com/p/AF1QipP8977B5MWsWIKWqry9DqYGIProBS6Hz4wKdasv=s680-w680-h510",
+        "website":"https://www.ubereats.com/ke/store/mama-oliech-hurligham/4aQXycxHSlyHH_fbNdnuUw"
       },
       {
         "id": 14,
-        "name": "Inca Restaurant",
-        "category": "Food & Drinks",
-        "description": "Perched in the vibrant heart of Nairobi's Hurlingham area, Inca Restaurant beckons with its irresistible blend of Peruvian cuisine and contemporary flair.",
-        "image":"https://eatout.co.ke/storage/2021/03/4.jpg",
-        "website":"https://www.nairobirestaurants.co.ke/restaurant/inca-restaurant/profile"
+        "name": "Bambino - Kitchen & Bar",
+        "category": "restaurants",
+        "description": "Located on the ground floor of the Delta Towers in Westlands, Nairobi, the lavish restaurant with a modern setting seeks to redefine your dining experience.",
+        "image":"https://lh3.googleusercontent.com/p/AF1QipM-yleJHGJi9g6IAQV5eD1-KyV3o4paMmDSlKo4=s680-w680-h510",
+        "website":"https://www.thefoodlibrary.co.ke/bambino-latin-italian-kitchen/?fbclid=PAZXh0bgNhZW0CMTEAAaaKM7amNcl0OOhARp3urq5G41vl4q1h_AWey1H5yhFSjP6wHEWYYMUXYfk_aem_lMS2LsFGqz-dH4tI-JcATA"
       },
      
       {
         "id": 15,
-        "name": "Inca Restaurant",
-        "category": "Food & Drinks",
-        "description": "Perched in the vibrant heart of Nairobi's Hurlingham area, Inca Restaurant beckons with its irresistible blend of Peruvian cuisine and contemporary flair.",
-        "image":"https://eatout.co.ke/storage/2021/03/4.jpg",
-        "website":"https://www.nairobirestaurants.co.ke/restaurant/inca-restaurant/profile"
+        "name": "INTI - A Nikkei Experience",
+        "category": "restaurants",
+        "description": "Inti - a Nikkei Experience. INTI is the reflection of the Japanese influence on the Peruvian gastronomy. The ingredients of both cultures complement each other as if they had been born to be one. It is an honest cuisine with unique textures and flavors.",
+        "image":"https://lh3.googleusercontent.com/p/AF1QipM7us8YX1-JqW-bXkvvlegWTUqzSQJbKVm6btf5=s680-w680-h510",
+        "website":"https://www.thefoodlibrary.co.ke/inti-a-nikkei-experience/"
+      },
+      {
+        "id": 16,
+        "name": "Two Rivers",
+        "category": "malls",
+        "description": "Two Rivers Mall is a shopping centre located in Nairobi, Kenya. With 67,000 sqm of gross lettable area, it is the largest shopping mall in sub-Saharan Africa outside of South Africa.",
+        "image":"https://lh3.googleusercontent.com/p/AF1QipNzKK3gv65YEb_mcSzRrUnCJPkHCU8rEAe0StIH=s680-w680-h510",
+        "website":"https://tworiversmall.com/home/"
+      },
+      {
+        "id": 17,
+        "name": "The Junction Mall",
+        "category": "malls",
+        "description": "The Junction Mall is home to over 90 local and international retail stores, exclusive boutiques, fashion, dining, and unparalleled entertaining events in Nairobi. The Mall offers an easy-to-navigate layout for the ultimate all-in-one shopping experience. Conveniently accessible from either Ngong Road or Riara Road, the mall provides over 800 secure parking bays. Visit The Junction Mall for an All About You shopping experience!",
+        "image":"https://lh3.googleusercontent.com/p/AF1QipNumhbQu1upDpM5onlqTTWuJ92VCvWHrnSCKY4-=s680-w680-h510",
+        "website":"https://thejunction.co.ke/"
+
+      },
+      {
+        "id": 18,
+        "name": "Garden City Mall",
+        "category": "malls",
+        "description": "Garden City Mall is a shopping centre located in Kasarani in Nairobi, Kenya. With 33,500 sqm of gross retail space area, it is the second largest shopping centre in Kenya. ",
+        "image":"https://lh3.googleusercontent.com/p/AF1QipPcCOQtBTIEYNCw3ctRqxjAn7EDI0LY-UNowT7L=s680-w680-h510",
+        "website":"https://www.shopgardencitymall.com/"
+      },
+      {
+        "id": 1,
+        "name": "CJ's",
+        "category": "malls",
+        "description": "commited to great food, great coffee, great service, an experience that will make your time with us fabulous. All visuals are serving suggestions only.",
+        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/30/f6/37/welcome-to-cj-s-a-fully.jpg?w=1100&h=-1&s=1",
+        "website":"https://cjs.co.ke/user/home"
+      },
+      {
+        "id": 1,
+        "name": "CJ's",
+        "category": "malls",
+        "description": "commited to great food, great coffee, great service, an experience that will make your time with us fabulous. All visuals are serving suggestions only.",
+        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/30/f6/37/welcome-to-cj-s-a-fully.jpg?w=1100&h=-1&s=1",
+        "website":"https://cjs.co.ke/user/home"
+      },
+      {
+        "id": 1,
+        "name": "CJ's",
+        "category": "malls",
+        "description": "commited to great food, great coffee, great service, an experience that will make your time with us fabulous. All visuals are serving suggestions only.",
+        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/30/f6/37/welcome-to-cj-s-a-fully.jpg?w=1100&h=-1&s=1",
+        "website":"https://cjs.co.ke/user/home"
+      },
+      {
+        "id": 1,
+        "name": "CJ's",
+        "category": "malls",
+        "description": "commited to great food, great coffee, great service, an experience that will make your time with us fabulous. All visuals are serving suggestions only.",
+        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/30/f6/37/welcome-to-cj-s-a-fully.jpg?w=1100&h=-1&s=1",
+        "website":"https://cjs.co.ke/user/home"
+      },
+      {
+        "id": 1,
+        "name": "CJ's",
+        "category": "malls",
+        "description": "commited to great food, great coffee, great service, an experience that will make your time with us fabulous. All visuals are serving suggestions only.",
+        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/30/f6/37/welcome-to-cj-s-a-fully.jpg?w=1100&h=-1&s=1",
+        "website":"https://cjs.co.ke/user/home"
+      },
+      {
+        "id": 1,
+        "name": "CJ's",
+        "category": "malls",
+        "description": "commited to great food, great coffee, great service, an experience that will make your time with us fabulous. All visuals are serving suggestions only.",
+        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/30/f6/37/welcome-to-cj-s-a-fully.jpg?w=1100&h=-1&s=1",
+        "website":"https://cjs.co.ke/user/home"
+      },
+      {
+        "id": 1,
+        "name": "CJ's",
+        "category": "malls",
+        "description": "commited to great food, great coffee, great service, an experience that will make your time with us fabulous. All visuals are serving suggestions only.",
+        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/30/f6/37/welcome-to-cj-s-a-fully.jpg?w=1100&h=-1&s=1",
+        "website":"https://cjs.co.ke/user/home"
+      },
+      {
+        "id": 1,
+        "name": "CJ's",
+        "category": "malls",
+        "description": "commited to great food, great coffee, great service, an experience that will make your time with us fabulous. All visuals are serving suggestions only.",
+        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/30/f6/37/welcome-to-cj-s-a-fully.jpg?w=1100&h=-1&s=1",
+        "website":"https://cjs.co.ke/user/home"
       }
     ]
   }
