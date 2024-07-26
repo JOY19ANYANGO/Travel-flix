@@ -148,68 +148,140 @@
         "website":"https://www.shopgardencitymall.com/"
       },
       {
-        "id": 1,
-        "name": "CJ's",
+        "id": 19,
+        "name": "Westgate Shopping Mall",
         "category": "malls",
-        "description": "commited to great food, great coffee, great service, an experience that will make your time with us fabulous. All visuals are serving suggestions only.",
-        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/30/f6/37/welcome-to-cj-s-a-fully.jpg?w=1100&h=-1&s=1",
-        "website":"https://cjs.co.ke/user/home"
+        "description": "Westgate, Nairobi’s premier shopping mall is East Africa’s finest shopping, leisure and pleasure destination. Lots of daily, weekly and monthly entertainment for the whole family; Westgate is the only shopping mall in East Africa that has shoppers engaged in exciting and enlightening events for all.",
+        "image":"https://lh3.googleusercontent.com/p/AF1QipMIpvNsoMS-2qOa09Gi4HNRcipYtEbLSTamSNie=s680-w680-h510",
+        "website":"https://www.westgate.co.ke/"
       },
       {
-        "id": 1,
-        "name": "CJ's",
+        "id": 20,
+        "name": "Lavington Mall",
         "category": "malls",
-        "description": "commited to great food, great coffee, great service, an experience that will make your time with us fabulous. All visuals are serving suggestions only.",
-        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/30/f6/37/welcome-to-cj-s-a-fully.jpg?w=1100&h=-1&s=1",
-        "website":"https://cjs.co.ke/user/home"
+        "description": "Prime shopping centre/ Mall in the suburbs of LAVINGTON. Plenty choice of Luxury clothing brands, gourmet restaurants, café's and bars. Entertainment center with children play areas, classy bars and liquor stores. Not forgetting our famous Earthed ORGANIX market and Masai market every Saturday. ",
+        "image":"https://lh3.googleusercontent.com/p/AF1QipNw8ZIPBUJNfPUSMCc8-s2ciiz5VXmziqn4xokE=s680-w680-h510",
+        "website":"https://kiraguandmwangi.co.ke/property/lavington-mall/"
       },
       {
-        "id": 1,
-        "name": "CJ's",
+        "id": 21,
+        "name": "Prestige Plaza Shopping Mall",
         "category": "malls",
-        "description": "commited to great food, great coffee, great service, an experience that will make your time with us fabulous. All visuals are serving suggestions only.",
-        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/30/f6/37/welcome-to-cj-s-a-fully.jpg?w=1100&h=-1&s=1",
-        "website":"https://cjs.co.ke/user/home"
+        "description": "Prestige Plaza, is one of the first modern shopping centres in Nairobi having opened its doors in 2003. Unique in its design and convenient in its location away from the hustle and bustle of the City Centre, we are located on Ngong Road. Prestige Plaza is one of the more modern shopping centres in Nairobi recognised as a “one-stop shopping destination",
+        "image":"https://lh3.googleusercontent.com/p/AF1QipPMS1K6afJd_SPckFGEEG1tRhlGnxDPLmLEjVYQ=s680-w680-h510",
+        "website":"https://prestigeplaza.co.ke/"
       },
       {
-        "id": 1,
-        "name": "CJ's",
+        "id": 22,
+        "name": "Yaya Centre",
         "category": "malls",
-        "description": "commited to great food, great coffee, great service, an experience that will make your time with us fabulous. All visuals are serving suggestions only.",
-        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/30/f6/37/welcome-to-cj-s-a-fully.jpg?w=1100&h=-1&s=1",
-        "website":"https://cjs.co.ke/user/home"
+        "description": "Yaya is a shopping centre located in Hurlingham in Nairobi, Kenya. The establishment had been an asset for the Nicholas Biwott business empire until 2023 when it was announced that the Kantaria family had acquired it at undisclosed amount.",
+        "image":"https://lh3.googleusercontent.com/p/AF1QipNNzxJKwLGvboEa3Q1TO6Go3D8ByMCILP8LQgzi=s680-w680-h510",
+        "website":"https://www.yaya-centre.com/"
       },
       {
-        "id": 1,
-        "name": "CJ's",
+        "id": 23,
+        "name": "Sarit",
         "category": "malls",
-        "description": "commited to great food, great coffee, great service, an experience that will make your time with us fabulous. All visuals are serving suggestions only.",
-        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/30/f6/37/welcome-to-cj-s-a-fully.jpg?w=1100&h=-1&s=1",
-        "website":"https://cjs.co.ke/user/home"
+        "description": "The Sarit Centre Mall, strategically located in the bustling Westlands area of Nairobi, stands as a versatile shopping and entertainment hub that offers something for everyone. With its extensive selection of stores spread across multiple floors, this mall serves as an ideal shopping destination.",
+        "image":"https://lh3.googleusercontent.com/p/AF1QipMeKJJNfzw3OcloVGFYDGprZgzJdzRbvEwd7DBa=s680-w680-h510",
+        "website":"https://sarityourcity.com/"
       },
       {
-        "id": 1,
-        "name": "CJ's",
+        "id": 24,
+        "name": "Greenhouse Mall",
         "category": "malls",
-        "description": "commited to great food, great coffee, great service, an experience that will make your time with us fabulous. All visuals are serving suggestions only.",
-        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/30/f6/37/welcome-to-cj-s-a-fully.jpg?w=1100&h=-1&s=1",
-        "website":"https://cjs.co.ke/user/home"
+        "description": "The atmosphere is good,clean and bright..Definitely cheerful and a nice place to enjoy the sun or climate and still have a good time all at once.Easily accessible on Ngong Road,can barely miss it.Just refreshing",
+        "image":"https://lh3.googleusercontent.com/p/AF1QipNIQDCrxO2Wt4uMjUh9U6PXxuJKZQYBNxJTnnqm=s680-w680-h510",
+        "website":"http://thegreenhouse.co.ke/"
       },
       {
-        "id": 1,
-        "name": "CJ's",
+        "id": 25,
+        "name": "The Hub Karen",
         "category": "malls",
-        "description": "commited to great food, great coffee, great service, an experience that will make your time with us fabulous. All visuals are serving suggestions only.",
-        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/30/f6/37/welcome-to-cj-s-a-fully.jpg?w=1100&h=-1&s=1",
-        "website":"https://cjs.co.ke/user/home"
+        "description": "The Hub is located in Karen but still quite accessible. If you are coming from Kikuyu, there are matatus that will take you directly to the hub as they have a main stage here. From the CBD, I guess you take those going to Ngong and drop off at the police station.",
+        "image":"https://lh3.googleusercontent.com/p/AF1QipMSfPRBYK5TEWEWp0oUOcaShzQ52bUCHFcv102l=s680-w680-h510",
+        "website":"https://thehubkaren.com/"
       },
       {
-        "id": 1,
-        "name": "CJ's",
-        "category": "malls",
-        "description": "commited to great food, great coffee, great service, an experience that will make your time with us fabulous. All visuals are serving suggestions only.",
-        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/30/f6/37/welcome-to-cj-s-a-fully.jpg?w=1100&h=-1&s=1",
-        "website":"https://cjs.co.ke/user/home"
+        "id": 26,
+        "name": "Karura Forest",
+        "category": "nature",
+        "description": "The Karura Forest Reserve is an urban upland forest on the outskirts of Nairobi, the capital of Kenya. This remarkable geographical location and natural ",
+        "image":"https://lh3.googleusercontent.com/p/AF1QipNJ4lhmbbCy9LgvXYGro6-iM-k1Dmb2svgxshfW=s680-w680-h510",
+        "website":"https://www.friendsofkarura.org/"
+      }, 
+      {
+        "id": 27,
+        "name": "Ngong Road Forest Sanctuary",
+        "category": "nature",
+        "description": "Ngong Forest is one of the few natural forests in the capital city of Kenya. It is located along Ngong Road, 6 kilometres from Nairobi's central business district.",
+        "image":"https://lh3.googleusercontent.com/p/AF1QipM2awvB_uf_T_1myIObaZ6K33CdZHtslc0lN2nJ=s680-w680-h510",
+        "website":"https://www.ngongroadforest.com/"
+      },
+      {
+        "id": 28,
+        "name": "The Oloolua Nature Trail",
+        "category": "nature",
+        "description": "Oloolua Nature Trail in Kenya is located in Karen Neighbourhood in Nairobi in the indigenous tropical dry Oloolua forest in Kenya. Oloolua Forest in Kenya has",
+        "image":"https://lh5.googleusercontent.com/p/AF1QipOdOWhrDwOsbLuSnJmZoYdpXTg2itnVCMC9VyD7=w260-h175-n-k-no",
+        "website":"https://primateresearch.org/oloolua-nature-trail/"
+      }, 
+      {
+        "id": 29,
+        "name": "Giraffe Centre Nature Trail",
+        "category": "nature",
+        "description": "Take a stroll, or hike if you're up to it, in our serene 1.5-kilometre nature trail and see how many species of bird you can spot – the record in one stroll is ...",
+        "image":"https://lh3.googleusercontent.com/p/AF1QipNi6GkdwLs-dzBqmW6W-eb3qFsnD-1nwsYlsQZg=s680-w680-h510",
+        "website":"https://www.giraffecentre.org/our-sanctuary/"
+      },
+      {
+        "id": 30,
+        "name": "Nairobi Safari Walk",
+        "category": "nature",
+        "description": "Elevated wooden boardwalk winding through a safari park with lions, rhinos, cheetahs & leopards.",
+        "image":"https://lh3.googleusercontent.com/p/AF1QipNIXC5174E7VF3Mb_eIbcoNHQSOHEoqq6GG_h2i=s680-w680-h510",
+        "website":"https://www.kws.go.ke/content/nairobi-safari-walk"
+      },
+      {
+        "id": 31,
+        "name": "Nairobi National Park",
+        "category": "nature",
+        "description": "Nairobi National Park is a national park in Kenya that was established in 1946 about 7 km south of Nairobi. It is fenced on three sides, whereas the open southern boundary allows migrating wildlife to move between the park and the adjacent Kitengela plains. Herbivores gather in the park during the dry season.",
+        "image":"https://lh3.googleusercontent.com/p/AF1QipMy4tV8ATED9G3VZ-PSqGNWwFy21dX0GRvn2-o=s680-w680-h510",
+        "website":"https://www.kws.go.ke/parks/nairobi-national-park"
+      },
+      {
+        "id": 32,
+        "name": "Snake Park",
+        "category": "nature",
+        "description": "During your safari to the Nairobi Snake Park you can get the opportunity to handle non venomous juvenile pythons, house snakes and tortoise (hatchlings) with ..",
+        "image":"https://lh3.googleusercontent.com/p/AF1QipOp7MEbhpyc8YGu_v3j2k_EbsYOAPY0CRiBFx87=s680-w680-h510",
+        "website":"https://museums.or.ke/nairobi-snake-park-and-aquarium/"
+      },
+      {
+        "id": 33,
+        "name": "The Nairobi Arboretum",
+        "category": "nature",
+        "description": "An arboretum is a place holding living collection of plants for the purposes of scientific research, conservation, display and education (Wyse Jackson 1999). Nairobi Arboretum is a 30.4 hectares of wooded landscape, an oasis close to the heart of the city situated in the Kilimani area, about 3 km from city centre and adjacent to the State House. It is bounded by the Kirichwa Kubwa River, Arboretum Drive  and Kenya Girl Guide Headquarters",
+        "image":"https://lh5.googleusercontent.com/p/AF1QipPH4haSqsuLLqPgv19Z4AKJO8laZljnonYqR4zV=w260-h175-n-k-no",
+        "website":"https://nairobiarboretum.org/index.php/nairobi-arboretum/"
+      },
+      {
+        "id": 34,
+        "name": "Nairobi Mamba Village",
+        "category": "nature",
+        "description": "An arboretum is a place holding living collection of plants for the purposes of scientific research, conservation, display and education (Wyse Jackson 1999). Nairobi Arboretum is a 30.4 hectares of wooded landscape, an oasis close to the heart of the city situated in the Kilimani area, about 3 km from city centre and adjacent to the State House. It is bounded by the Kirichwa Kubwa River, Arboretum Drive  and Kenya Girl Guide Headquarters",
+        "image":"https://lh5.googleusercontent.com/p/AF1QipOxyKpTBygZ27ckyJCLZzB4KauEVyGzx4e1do6m=w260-h175-n-k-no",
+        "website":"https://www.nairobinationalparkkenya.com/mamba-village-park-nairobi/blog/"
+      },
+      {
+        "id": 35,
+        "name": "Uhuru Park",
+        "category": "nature",
+        "description": "Uhuru Park is a 12.9 hectare recreational park adjacent to the central business district of Nairobi, Kenya. It was opened to the general public by the late Mzee Jomo Kenyatta on 23 May 1969.",
+        "image":"https://lh5.googleusercontent.com/p/AF1QipMaxT8BY5HT1xEbmMhCiMvDS_PvVAEKaKNhuSm4=w260-h175-n-k-no",
+        "website":"https://www.lonelyplanet.com/kenya/nairobi/attractions/uhuru-park/a/poi-sig/1461012/355332"
       }
     ]
   }
