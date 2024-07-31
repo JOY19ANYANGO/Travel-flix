@@ -282,6 +282,63 @@
         "description": "Uhuru Park is a 12.9 hectare recreational park adjacent to the central business district of Nairobi, Kenya. It was opened to the general public by the late Mzee Jomo Kenyatta on 23 May 1969.",
         "image":"https://lh5.googleusercontent.com/p/AF1QipMaxT8BY5HT1xEbmMhCiMvDS_PvVAEKaKNhuSm4=w260-h175-n-k-no",
         "website":"https://www.lonelyplanet.com/kenya/nairobi/attractions/uhuru-park/a/poi-sig/1461012/355332"
+      },
+      {
+        "id": 35,
+        "name": "K1 Klub House",
+        "category": "bars club",
+        "description": "A Visit to Nairobi is never complete without a K1 Klubhouse experience. Situated along Ojijo Road in Parklands, K1 is Nairobi's foremost entertainment point where locals meet for the best music along with great atmosphere. Indulge yourself everyday with a selection of the best Dj's Music and a mouth watering menu compromising of African and western meals. K1 is a convergence of various cultures that blend together to present the ultimate fun",
+        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/2a/28/99/klub-house-1.jpg?w=800&h=-1&s=1",
+        "website":"https://www.instagram.com/k1klubhouse/?hl=en"
+      },
+      {
+        "id": 36,
+        "name": "Mulberry Project at The Alchemist",
+        "category": "bars club",
+        "description": "Famous cocktail bar Mulberry Project, originally from NYC, is now at The Alchemist. Our team of international and local bartenders deliver a bespoke cocktail menu, which allows you to create you own drink. We have Tuesday Game Night and Thursday Happy Hour All night. ",
+        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/bc/f0/50/great-late-night-and.jpg?w=1100&h=-1&s=1",
+        "website":"https://www.instagram.com/mulberryprojectpopup/?hl=en"
+      },
+      {
+        "id": 37,
+        "name": "Club Cubano",
+        "category": "bars club",
+        "description": "The Club is at a very secure location with the Perfect lighting And definitely Nairobi's Best DJs. The drinks are very affordable with beers going for an average of $2 And shots going for the same price .Outdoor club, great atmosphere but not much else",
+        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/63/c2/76/club-cubano.jpg?w=1000&h=-1&s=1",
+        "website":"https://www.lonelyplanet.com/kenya/nairobi/attractions/uhuru-park/a/poi-sig/1461012/355332"
+      },
+      {
+        "id": 38,
+        "name": "Safari Bar",
+        "category": "bars club",
+        "description": "The Safari Bar at Intercontinental, Nairobi is an open air wonderful place to relax for lunch or dinner. Thr bar is located next to the swimming pool. Try their draft beer and pork burger. They have 3 varieties of draft beer. The dinner menu is limited. Ok for light eaters. While at Intercontinental this bar is a must visit place.",
+        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/eb/95/21/img-20180730-213515-largejpg.jpg?w=1100&h=-1&s=1",
+        "website":"https://www.instagram.com/safari_bar_kampala/"
+      },
+      {
+        "id": 39,
+        "name": "Rum Tastings at Tortuga Rum Bar",
+        "category": "bars club",
+        "description": "If you love rum, Tortuga Rum Bar Tasting Room is for you. We offer a unique rum experience, bringing the Caribbean vibe to Kenya. Tortuga Rum Bar is educating its customers about this versatile spirit and we now invite guests to come and discover world premium rums, sample several rum ",
+        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/08/e9/5d/handcrafted-flavoured.jpg?w=1200&h=-1&s=1",
+        "website":"https://www.tripadvisor.com/Attraction_Review-g294207-d23414001-Reviews-Rum_Tastings_at_Tortuga_Rum_Bar-Nairobi.html"
+      },
+      {
+        "id": 40,
+        "name": "Babalu's Bar & Lounge",
+        "category": "bars club",
+        "description": "Famous for the GM’s Platter, Babalu’s Bar & Lounge offers a curated choice of wines, select whiskies, cocktails and delectable bar bitings, topped with exceptional service. Located on the ground floor and open daily from 11am to midnight.",
+        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/a7/59/49/getlstd-property-photo.jpg?w=1200&h=-1&s=1",
+        "website":"https://www.tripadvisor.com/Attraction_Review-g294207-d16759421-Reviews-Babalu_s_Bar_Lounge-Nairobi.html"
+      },
+      {
+        "id": 41,
+        "name": "Melanin Club & Food Court",
+        "category": "bars club",
+        "description": "Melanin club and food court is located in the heart of westlands,Nairobi Kenya. Its a place where you can eat variety of food from our kitchens at the food court(Thai cuisine,Mediterranean cuisine, continental cuisines,French Corner Cafe that serves amazing breakfast,pizzas,local",
+        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/b1/7c/e0/pizza.jpg?w=1200&h=-1&s=1",
+        "website":"https://www.tripadvisor.com/Attraction_Review-g294207-d19906851-Reviews-Melanin_Club_Food_Court-Nairobi.html"
       }
+
     ]
   }
