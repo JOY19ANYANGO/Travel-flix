@@ -5,12 +5,16 @@ function GamesFuns() {
     const [games, setgames] = useState([]);
     const [selectedgame, setSelectedgame] = useState(null);
 
-  useEffect(() => {
-    fetch("http://localhost:3000/areas") // Replace with your actual API endpoint
-      .then((response) => response.json())
-      .then((data) => setgames(data))
-      .catch((error) => console.error("Error fetching data:", error));
-  }, []);
+    useEffect(() => {
+      fetch("http://localhost:3000/areas") // Replace with your actual API endpoint
+        .then((response) => response.json())
+        .then((data) => {
+          const filteredGames = data.filter((game) => game.category === "games ");
+          setgames(filteredGames);
+          console.log(games)
+        })
+        .catch((error) => console.error("Error fetching data:", error));
+    }, []);
 
   const handleCardClick = (game) => {
     setSelectedgame(game);
@@ -20,7 +24,7 @@ function GamesFuns() {
     setSelectedgame(null);
   };
     return (
-        <div className="text-white  ">
+        <div className="text-white  bg-black ">
         <div
         className="absolute top-0 left-0 w-full h-1/3 bg-cover bg-center "
         style={{ backgroundImage: "url('https://www.capitalfm.co.ke/lifestyle/files/2021/09/ABU02125.jpg')" }}

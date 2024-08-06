@@ -5,13 +5,15 @@ function Malls() {
     const [malls, setmalls] = useState([]);
     const [selectedmall, setSelectedmall] = useState(null);
 
-  useEffect(() => {
-    fetch("http://localhost:3000/areas") // Replace with your actual API endpoint
-      .then((response) => response.json())
-      .then((data) => setmalls(data))
-      .catch((error) => console.error("Error fetching data:", error));
-  }, []);
-
+    useEffect(() => {
+      fetch("http://localhost:3000/areas") // Replace with your actual API endpoint
+        .then((response) => response.json())
+        .then((data) => {
+          const filteredMalls= data.filter((mall) => mall.category === "malls");
+          setmalls(filteredMalls);
+        })
+        .catch((error) => console.error("Error fetching data:", error));
+    }, []);
   const handleCardClick = (mall) => {
     setSelectedmall(mall);
   };

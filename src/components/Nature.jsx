@@ -4,13 +4,16 @@ import NavBar from "./Navbar";
 function Nature() {
     const [nature, setnature] = useState([]);
     const [selectednature, setSelectednature] = useState(null);
+    useEffect(() => {
+      fetch("http://localhost:3000/areas") // Replace with your actual API endpoint
+        .then((response) => response.json())
+        .then((data) => {
+          const filterednature = data.filter((nature) => nature.category === "nature");
+          setnature(filterednature);
+        })
+        .catch((error) => console.error("Error fetching data:", error));
+    }, []);
 
-  useEffect(() => {
-    fetch("http://localhost:3000/areas") // Replace with your actual API endpoint
-      .then((response) => response.json())
-      .then((data) => setnature(data))
-      .catch((error) => console.error("Error fetching data:", error));
-  }, []);
 
   const handleCardClick = (nature) => {
     setSelectednature(nature);

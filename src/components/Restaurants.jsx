@@ -8,7 +8,10 @@ function Restaurants() {
   useEffect(() => {
     fetch("http://localhost:3000/areas") // Replace with your actual API endpoint
       .then((response) => response.json())
-      .then((data) => setRestaurants(data))
+      .then((data) => {
+        const filteredRestaurants = data.filter((restaurant) => restaurant.category === "restaurants");
+        setRestaurants(filteredRestaurants);
+      })
       .catch((error) => console.error("Error fetching data:", error));
   }, []);
 

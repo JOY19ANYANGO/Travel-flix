@@ -5,12 +5,16 @@ function BarsClubs() {
     const [bars, setbars] = useState([]);
    const [selectedbar, setSelectedbar] = useState(null);
 
-  useEffect(() => {
+   useEffect(() => {
     fetch("http://localhost:3000/areas") // Replace with your actual API endpoint
       .then((response) => response.json())
-      .then((data) => setbars(data))
+      .then((data) => {
+        const filteredbars = data.filter((bar) => bar.category === "bars club");
+        setbars(filteredbars);
+      })
       .catch((error) => console.error("Error fetching data:", error));
   }, []);
+
 
   const handleCardClick = (bar) => {
     setSelectedbar(bar);
