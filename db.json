@@ -338,7 +338,64 @@
         "description": "Melanin club and food court is located in the heart of westlands,Nairobi Kenya. Its a place where you can eat variety of food from our kitchens at the food court(Thai cuisine,Mediterranean cuisine, continental cuisines,French Corner Cafe that serves amazing breakfast,pizzas,local",
         "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/b1/7c/e0/pizza.jpg?w=1200&h=-1&s=1",
         "website":"https://www.tripadvisor.com/Attraction_Review-g294207-d19906851-Reviews-Melanin_Club_Food_Court-Nairobi.html"
+      },
+      {
+        "id": 42,
+        "name": "GP Karting",
+        "category": "games ",
+        "description": "Turn up at our recently resurfaced track on Carnivore Road and we'll provide you with a helmet, a racing suit and a full driver's briefing to get you going - fast! Our split second computerized timing system allows you to monitor your lap times and see your progress as you master the race track!In between and after your racing, enjoy great food and drink at our Sports Bar and Restaurant",
+        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/be/e4/a8/gp-karting.jpg?w=1200&h=-1&s=1",
+        "website":"https://www.gpkarting.co.ke/"
+      },
+      {
+        "id": 43,
+        "name": "Joy Bouncing Castles Entertainment",
+        "category": "games ",
+        "description": "Bouncing castles for hire and rent in Nairobi Kenya, for birthday parties, weekend events, kids shows, fun day and festivals. We also have various packages for awesome and FUN birthday parties. ",
+        "image":"https://d2j6dbq0eux0bg.cloudfront.net/images/75226543/3072410734.jpg",
+        "website":"https://joybouncingcastlesentertainment.company.site/"
+      },
+      {
+        "id": 44,
+        "name": "CLIMB BLUESKY",
+        "category": "games ",
+        "description": "Climbing is about growth, whether that be physically, mentally, or emotionally. As you grow, you will become an avid lover of adventure and embrace new challenges.",
+        "image":"https://static.wixstatic.com/media/6dad33_e97011e9f570435e98c2114932b96d5d~mv2.jpg/v1/fill/w_1190,h_793,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/6dad33_e97011e9f570435e98c2114932b96d5d~mv2.jpg",
+        "website":"https://www.blueskykenya.org/climb"
+      },
+      {
+        "id": 45,
+        "name": "Laserland",
+        "category": "games ",
+        "description": "LASERLAND is the first and only Glow in the dark Lasertag facility in Kenya. We offer lasertag and VR games fun for families and friends.Come and join us for some laser tag fun!Features up to 300square meter arena.Up to 16 players per game",
+        "image":"https://www.upkenya.com/wp-content/uploads/2020/03/1630527570-inbound1789643401974488795-1024x716.jpg",
+        "website":"https://www.instagram.com/laserlandke/?hl=en"
+      },
+      {
+        "id": 46,
+        "name": "TGRV Cicuit, Karting",
+        "category": "games ",
+        "description": "It's not all racing here at TGRV circuit. We can organize fun outdoor activities for any size or type of group. Besides the thrill of racing our karts around the track, we've got a zipline, swimming pool and can even organize guided walks and sundowner sessions in the neighboring area. On request we can also organize day trips to Hell's Gate National Park as well as Mount Longonot.",
+        "image":"https://www.tgrv.co.ke/application/themes/tgrv/content/home-1.jpg",
+        "website":"https://www.tgrv.co.ke/"
+      },
+      {
+        "id": 47,
+        "name": "Playland Amusement Park",
+        "category": "games ",
+        "description": "Since opening our doors to the public in 2019, Playland Amusement Park has become a must-see destination for people all over the Nairobi. We offer top-of-the-line entertainment services for everyone to enjoy. Whether you’re planning a day trip with your family, or are coming with friends, we give visitors of all ages the chance to enjoy themselves in a fun-filled environment. Swing by for a visit.",
+        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/c1/de/d1/caption.jpg?w=1200&h=-1&s=1",
+        "website":"https://www.facebook.com/playlandkenya/"
+      },
+      {
+        "id": 48,
+        "name": "Tric Gaming Cafe",
+        "category": "games ",
+        "description": "Since opening our doors to the public in 2019, Playland Amusement Park has become a must-see destination for people all over the Nairobi. We offer top-of-the-line entertainment services for everyone to enjoy. Whether you’re planning a day trip with your family, or are coming with friends, we give visitors of all ages the chance to enjoy themselves in a fun-filled environment. Swing by for a visit.",
+        "image":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/c1/de/d1/caption.jpg?w=1200&h=-1&s=1",
+        "website":"https://www.facebook.com/playlandkenya/"
       }
 
+      
     ]
   }
