@@ -4,6 +4,7 @@ import SearchBar from '../components/Searchbar';
 import Header from '../components/Header';
 import AddListings from '../components/AddListings';
 import CategoryIcons from '../components/Categories';
+import Footer from '../components/Footer';
 
 const LandingPage = () => {
   const [opacity, setOpacity] = useState("bg-black opacity-40");
@@ -35,6 +36,7 @@ const LandingPage = () => {
       </div>
 
       <CategoryIcons />
+      <Footer />
     </div>
   );
 };

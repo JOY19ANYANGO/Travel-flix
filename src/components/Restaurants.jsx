@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import NavBar from "./Navbar";
+import Footer from "./Footer";
 
 function Restaurants() {
   const [restaurants, setRestaurants] = useState([]);
@@ -83,16 +84,17 @@ function Restaurants() {
                 <a
                   href={selectedRestaurant.website}
                   target="_blank"
-                  rel="noopener noreferrer"
-                  className="mt-4 text-blue-400 underline"
-                >
-                  Visit Website
-                </a>
+          rel="noopener noreferrer"
+          className="mt-4 px-4 py-2 bg-red-500 text-white font-semibold rounded-full hover:bg-red-600 transition-colors duration-300 text-sm"
+        >
+          Visit Website
+        </a>
               </div>
             </div>
           </div>
         </div>
       )}
+      <Footer/>
     </div>
   );
 }

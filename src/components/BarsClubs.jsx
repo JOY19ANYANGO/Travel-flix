@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import NavBar from "./Navbar";
+import Footer from "./Footer";
 
 function BarsClubs() {
     const [bars, setbars] = useState([]);
@@ -79,7 +80,7 @@ function BarsClubs() {
                   href={selectedbar.website}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="mt-4 text-blue-400 underline"
+                  className="mt-4 px-4 py-2 bg-red-500 text-white font-semibold rounded-full hover:bg-red-600 transition-colors duration-300 text-sm"
                 >
                   Visit Website
                 </a>
@@ -88,6 +89,7 @@ function BarsClubs() {
           </div>
         </div>
       )}
+      <Footer/>
     </div>
     );
 }

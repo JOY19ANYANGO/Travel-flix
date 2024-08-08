@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import NavBar from "./Navbar";
+import Footer from "./Footer";
 
 function Nature() {
     const [nature, setnature] = useState([]);
@@ -78,7 +79,7 @@ function Nature() {
                   href={selectednature.website}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="mt-4 text-blue-400 underline"
+                  className="mt-4 px-4 py-2 bg-red-500 text-white font-semibold rounded-full hover:bg-red-600 transition-colors duration-300 text-sm"
                 >
                   Visit Website
                 </a>
@@ -87,6 +88,7 @@ function Nature() {
           </div>
         </div>
       )}
+      <Footer/>
     </div>
     );
 }

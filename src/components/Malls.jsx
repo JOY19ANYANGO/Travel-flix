@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import NavBar from "./Navbar";
+import Footer from "./Footer";
 
 function Malls() {
     const [malls, setmalls] = useState([]);
@@ -73,19 +74,22 @@ function Malls() {
               <div className="w-1/2 p-6 text-white flex flex-col justify-center">
                 <h2 className="text-4xl font-bold font-dancing-script">{selectedmall.name}</h2>
                 <p className="mt-4">{selectedmall.description}</p>
-                <a
-                  href={selectedmall.website}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="mt-4 text-blue-400 underline"
-                >
-                  Visit Website
-                </a>
+                        <a
+          href={selectedmall.website}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="mt-4 px-4 py-2 bg-red-500 text-white font-semibold rounded-full hover:bg-red-600 transition-colors duration-300 text-sm"
+        >
+          Visit Website
+        </a>
+
+
               </div>
             </div>
           </div>
         </div>
       )}
+      <Footer/>
     </div>
     );
 }
